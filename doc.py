@@ -210,6 +210,20 @@ EXPOSED_MODEL_IDS = [
     "anthropic/claude-sonnet",
     "anthropic/claude-opus",
     "anthropic/claude-haiku",
+    "claude-mythos-5",
+    "claude-mythos-5-sonnet",
+    "claude-mythos-5-sonnet-latest",
+    "claude-mythos-5-opus",
+    "claude-mythos-5-opus-latest",
+    "claude-mythos-5-haiku",
+    "claude-mythos-5-haiku-latest",
+    "anthropic/claude-mythos-5",
+    "anthropic/claude-mythos-5-sonnet",
+    "anthropic/claude-mythos-5-sonnet-latest",
+    "anthropic/claude-mythos-5-opus",
+    "anthropic/claude-mythos-5-opus-latest",
+    "anthropic/claude-mythos-5-haiku",
+    "anthropic/claude-mythos-5-haiku-latest",
 ]
 
 
